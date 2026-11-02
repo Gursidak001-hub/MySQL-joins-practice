@@ -70,3 +70,4 @@ File: `05_group_by_having.sql`
 
 ## Learning Goal
 To improve my SQL skills through practical exercises and develop a strong understanding of joins, data retrieval, aggregation, and business-related queries.
+
