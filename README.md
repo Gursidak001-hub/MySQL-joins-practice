@@ -1,4 +1,4 @@
-# mysql-joins-practice
+# MySQL-joins-practice
 SQL practice project covering INNER JOIN, LEFT JOIN, GROUP BY, HAVING and aggregate functions
 # MySQL JOIN Practice
 
